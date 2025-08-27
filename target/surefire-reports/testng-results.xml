@@ -2,16 +2,16 @@
 <testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
   <reporter-output>
   </reporter-output>
-  <suite started-at="2025-08-26T22:05:47 IST" name="Suite" finished-at="2025-08-26T22:06:08 IST" duration-ms="21048">
+  <suite started-at="2025-08-27T17:52:21 IST" name="Suite" finished-at="2025-08-27T17:52:36 IST" duration-ms="15325">
     <groups>
     </groups>
-    <test started-at="2025-08-26T22:05:47 IST" name="Test" finished-at="2025-08-26T22:06:08 IST" duration-ms="21048">
+    <test started-at="2025-08-27T17:52:21 IST" name="Test" finished-at="2025-08-27T17:52:36 IST" duration-ms="15325">
       <class name="regression.ValidateLoginUsingPOMDataProvider">
-        <test-method is-config="true" signature="beforTest()[pri:0, instance:regression.ValidateLoginUsingPOMDataProvider@4550bb58]" started-at="2025-08-26T22:05:47 IST" name="beforTest" finished-at="2025-08-26T22:05:47 IST" duration-ms="178" status="PASS">
+        <test-method is-config="true" signature="beforTest()[pri:0, instance:regression.ValidateLoginUsingPOMDataProvider@4550bb58]" started-at="2025-08-27T17:52:21 IST" name="beforTest" finished-at="2025-08-27T17:52:21 IST" duration-ms="221" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- beforTest -->
-        <test-method is-config="true" signature="setUp(java.lang.reflect.Method)[pri:0, instance:regression.ValidateLoginUsingPOMDataProvider@4550bb58]" started-at="2025-08-26T22:05:48 IST" name="setUp" finished-at="2025-08-26T22:06:04 IST" duration-ms="15642" status="PASS">
+        <test-method is-config="true" signature="setUp(java.lang.reflect.Method)[pri:0, instance:regression.ValidateLoginUsingPOMDataProvider@4550bb58]" started-at="2025-08-27T17:52:22 IST" name="setUp" finished-at="2025-08-27T17:52:34 IST" duration-ms="12448" status="PASS">
           <params>
             <param index="0">
               <value>
@@ -22,7 +22,7 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setUp -->
-        <test-method signature="validateLoginTest(java.util.HashMap)[pri:0, instance:regression.ValidateLoginUsingPOMDataProvider@4550bb58]" started-at="2025-08-26T22:06:04 IST" name="validateLoginTest" data-provider="getTestData" finished-at="2025-08-26T22:06:07 IST" duration-ms="3279" status="PASS">
+        <test-method signature="validateLoginTest(java.util.HashMap)[pri:0, instance:regression.ValidateLoginUsingPOMDataProvider@4550bb58]" started-at="2025-08-27T17:52:34 IST" name="validateLoginTest" data-provider="getTestData" finished-at="2025-08-27T17:52:35 IST" duration-ms="1260" status="PASS">
           <params>
             <param index="0">
               <value>
@@ -33,11 +33,11 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- validateLoginTest -->
-        <test-method is-config="true" signature="cleanUp()[pri:0, instance:regression.ValidateLoginUsingPOMDataProvider@4550bb58]" started-at="2025-08-26T22:06:07 IST" name="cleanUp" finished-at="2025-08-26T22:06:07 IST" duration-ms="296" status="PASS">
+        <test-method is-config="true" signature="cleanUp()[pri:0, instance:regression.ValidateLoginUsingPOMDataProvider@4550bb58]" started-at="2025-08-27T17:52:36 IST" name="cleanUp" finished-at="2025-08-27T17:52:36 IST" duration-ms="198" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- cleanUp -->
-        <test-method is-config="true" signature="reportsEnd()[pri:0, instance:regression.ValidateLoginUsingPOMDataProvider@4550bb58]" started-at="2025-08-26T22:06:07 IST" name="reportsEnd" finished-at="2025-08-26T22:06:08 IST" duration-ms="799" status="PASS">
+        <test-method is-config="true" signature="reportsEnd()[pri:0, instance:regression.ValidateLoginUsingPOMDataProvider@4550bb58]" started-at="2025-08-27T17:52:36 IST" name="reportsEnd" finished-at="2025-08-27T17:52:36 IST" duration-ms="257" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- reportsEnd -->
